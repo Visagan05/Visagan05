@@ -29,4 +29,4 @@ Continuously improving defensive security skills across SOC analysis, incident r
 <h2>Cybersecurity Projects</h2>
 
 - <b>Splunk-based Fraud Detection Dashboard</b>  
-  - [Fraud Detection](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Fraud Detection](https://github.com/Visagan05/Fraud-Detection)
